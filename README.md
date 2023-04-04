@@ -1,16 +1,28 @@
-### Hi there 👋
+### 👋 &nbsp; Hello everyone, my name is Akezhan
 
-<!--
-**akezhanbexeitov/akezhanbexeitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 &nbsp; Frontend Developer   
+🏫 &nbsp; James Cook University Singapore  
+🎓 &nbsp; Bachelor of Information Technology  
+🏀 &nbsp; Basketball addict  
+👘 &nbsp; Brown belt in real aikido  
+👊 &nbsp; Boxing rookie
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 &nbsp; My stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git,github,figma,react,redux,webpack,typescript,jest,gulp)](https://skillicons.dev)
+
+
+### 🏆 &nbsp; My statistics
+<img src="https://github-readme-stats.vercel.app/api?username=akezhanbexeitov&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akezhanbexeitov&layout=compact&theme=dark"/>
+
+
+### 💎 &nbsp; My projects
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=react-burger&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=GoCorona&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=gulp&theme=dark"/>
+
+
+### 📞 &nbsp; Contact me
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akezhan-bexeitov/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akezhanbex/)
