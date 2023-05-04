@@ -20,8 +20,6 @@
 ### 💎 &nbsp; My best projects
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=react-burger&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=GoCorona&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=gulp&theme=dark"/>
-
 
 ### 📞 &nbsp; Contact me
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akezhan-bexeitov/)  
