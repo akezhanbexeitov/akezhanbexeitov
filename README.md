@@ -18,7 +18,6 @@
 
 
 ### 💎 &nbsp; My best projects
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=react-burger&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=Forecast&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=GoCorona&theme=dark"/>
 
