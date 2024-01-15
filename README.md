@@ -9,7 +9,7 @@
 
 
 ### 🔨 &nbsp; My stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git,github,figma,react,redux,webpack,typescript,jest,gulp,vue,next,nuxt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,next,typescript,sass,vite,redux,git,tailwind,html,css,js,github,figma,webpack,jest,gulp,vue,nuxt)](https://skillicons.dev)
 
 
 ### 🏆 &nbsp; My statistics
