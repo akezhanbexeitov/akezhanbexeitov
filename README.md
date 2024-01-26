@@ -5,7 +5,7 @@
 🎓 &nbsp; Bachelor of Information Technology  
 🏀 &nbsp; Basketball addict  
 👘 &nbsp; Brown belt in real aikido  
-👊 &nbsp; Boxing rookie
+🏃 &nbsp; Running rookie
 
 
 ### 🔨 &nbsp; My stack
@@ -18,9 +18,8 @@
 
 
 ### 💎 &nbsp; My best projects
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=threads-clone&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=react-burger&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=Forecast&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akezhanbexeitov&repo=GoCorona&theme=dark"/>
 
 ### 📞 &nbsp; Contact me
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akezhan-bexeitov/)  
